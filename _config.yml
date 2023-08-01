@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Megan Richards"
 title_separator          : "-"
 name                     : &name "Megan Richards"
-description              : &description "AI Resident, MetaAI"
+description              : &description "AI Resident, Meta AI (FAIR)"
 url                      : https://meganrichards3.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "meganrichards3/meganrichards3.github.io"
@@ -82,10 +82,9 @@ analytics:
 author:
   name             : "Megan Richards"
   avatar           : "profile.png"
-  bio              : "AI Resident, MetaAI in NYC"
+  bio              : "AI Resident, Meta AI (FAIR)"
   location         : "New York City, New York"
   employer         :
-  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Fw7f9eoAAAAJ&hl=en"
   email            : meganrichards@meta.com
   researchgate     : 
@@ -96,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/meganrichards3"
+  github           : "meganrichards3"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +108,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "megan_richards_"
   vine             :
   weibo            :
   xing             :

@@ -17,7 +17,7 @@ Previously, I completed my undergradate at Duke University, where I worked with 
 
 ## Recent Updates
 
-- **July '23**: I'm thrilled to be attending ICML '23 with a poster at the [Data-Centric Machine learning Research (DMLR)](dmlr.ai) workshop (full paper [here](https://arxiv.org/abs/2307.13136)). I'm also part of an amazing team organizing a breakout session at the [Women in Machine Learning](https://sites.google.com/wimlworkshop.org/wiml-unworkshop-2023/home?authuser=0) workshop entitled "Leveraging Large Scale Models for Identifying and Fixing Deep Neural Networks Biases" (see our slides [here](https://drive.google.com/file/d/19do6FdisYV5OFY26jH-nvbB9CihDAcBg/view?usp=sharing)).
+- **July '23**: I'm thrilled to be attending ICML '23 with a poster at the [Data-Centric Machine learning Research (DMLR)](https://dmlr.ai/) workshop (full paper [here](https://arxiv.org/abs/2307.13136)). I'm also part of an amazing team organizing a breakout session at the [Women in Machine Learning](https://sites.google.com/wimlworkshop.org/wiml-unworkshop-2023/home?authuser=0) workshop entitled "Leveraging Large Scale Models for Identifying and Fixing Deep Neural Networks Biases" (see our slides [here](https://drive.google.com/file/d/19do6FdisYV5OFY26jH-nvbB9CihDAcBg/view?usp=sharing)).
 
 
 

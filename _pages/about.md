@@ -17,15 +17,13 @@ Previously, I completed my undergradate at Duke University, where I worked with 
 
 ## Recent Updates
 
-- **July '23**: I'm thrilled to be attending ICML '23 with a poster at the [Data-Centric Machine learning Research (DMLR)](https://dmlr.ai/) workshop (full paper [here](https://arxiv.org/abs/2307.13136)). I'm also part of an amazing team organizing a breakout session at the [Women in Machine Learning](https://sites.google.com/wimlworkshop.org/wiml-unworkshop-2023/home?authuser=0) workshop entitled "Leveraging Large Scale Models for Identifying and Fixing Deep Neural Networks Biases" (see our slides [here](https://drive.google.com/file/d/19do6FdisYV5OFY26jH-nvbB9CihDAcBg/view?usp=sharing)).
+- **July '23**: I'm at ICML '23 with a poster at the [Data-Centric Machine learning Research (DMLR)](https://dmlr.ai/) workshop (full paper [here](https://arxiv.org/abs/2307.13136)). I'm also part of an amazing team organizing a breakout session on robustness and large-scale vision models at the [Women in Machine Learning](https://sites.google.com/wimlworkshop.org/wiml-unworkshop-2023/home?authuser=0) workshop ([slides](https://drive.google.com/file/d/19do6FdisYV5OFY26jH-nvbB9CihDAcBg/view?usp=sharing)).
 
-- **June '23**: I'm very excited to be back at Machine Learning for Healthcare ([MLHC](https://www.mlforhc.org/)) with a poster describing our experiences deploying risk prediction models for maternal health at Duke.  
+- **June '23**: I'm excited to be back at Machine Learning for Healthcare ([MLHC](https://www.mlforhc.org/)) with a poster describing our experiences deploying risk prediction models for maternal health at Duke.  
 
 - **April '23**: Our [paper](https://arxiv.org/abs/2304.05391) releasing fine-grained annotations for the DollarStreet benchmark is on arxiv! We show how income and regional biases in object recognition models can be (partially) attributed to robustness failures to factors such as texture and lighting, and release a comphensive set of annotations for future work. 
 
 - **July '22**: Our [paper](https://proceedings.mlr.press/v182/sendak22a.html) on data quality in healthcare applications has been published at MLHC '22! We introduce a clinically-guided data quality assurance framework, validating the framework on 5 distinct clinical projects in two countries.  
-
-- **March '22**: Our [paper](https://downloads.spj.sciencemag.org/bmef/2022/9823184.pdf) on building models for cervical cancer screening for low-resource settings has been published in BME Frontiers!  
 
 ## Publications
 

@@ -22,8 +22,6 @@ Previously, I completed my undergradate at Duke University, where I worked with 
 
 - **June '23**: I'm excited to be back at Machine Learning for Healthcare ([MLHC](https://www.mlforhc.org/)) with a poster describing our experiences deploying risk prediction models for maternal health at Duke.  
 
-- **April '23**: Our [paper](https://arxiv.org/abs/2304.05391) releasing fine-grained annotations for the DollarStreet benchmark is on arxiv! We show how income and regional biases in object recognition models can be (partially) attributed to robustness failures to factors such as texture and lighting, and release a comphensive set of annotations for future work. 
-
 - **July '22**: Our [paper](https://proceedings.mlr.press/v182/sendak22a.html) on data quality in healthcare applications has been published at MLHC '22! We introduce a clinically-guided data quality assurance framework, validating the framework on 5 distinct clinical projects in two countries.  
 
 ## Publications
@@ -47,3 +45,17 @@ Previously, I completed my undergradate at Duke University, where I worked with 
     BME Frontiers, 2022 \
     [[BME Frontiers](https://downloads.spj.sciencemag.org/bmef/2022/9823184.pdf)]
   
+
+## Organizing 
+I'm really excited by efforts to make machine learning/science more inclusive, and am proud to part of the following efforts: 
+
+- **_Organizer, Queer In AI_** \
+I'm part of an amazing team organizing the NeurIPS 2023 workshop - see our NeurIPS website [here](https://www.queerinai.com/neurips-2023) and our org website [here](https://www.queerinai.com/).
+
+- **_Discussion Lead, Women-In-Machine-Learning (WiML) at ICML 2023_** \
+I helped organize a breakout session on robustness and large-scale vision models at the [Women in Machine Learning](https://sites.google.com/wimlworkshop.org/wiml-unworkshop-2023/home?authuser=0) workshop ([slides](https://drive.google.com/file/d/19do6FdisYV5OFY26jH-nvbB9CihDAcBg/view?usp=sharing)). 
+
+## Service 
+
+- **_Reviewer, DMLR Workshop at ICML 2023_** \
+  I was a reviewer for the DMLR workshop at ICML 2023 this year. See more about the workshop [here](https://dmlr.ai/). 

@@ -16,7 +16,7 @@ Previously, I completed my undergradate at Duke University, where I worked with 
 **I'm very excited to be applying to PhD programs this fall (2023/2024 cycle) - if you are looking for PhD students or would recommend people I should work with, I'd love to hear from you!**
 
 ## Recent Updates
-- **Sept '23**: We're honored to receive a spotlight award at NeurIPS 2023 under the datasets track for our paper investigating mechanisms of geographical bias in vision models! See full paper [here](https://arxiv.org/abs/2304.05391), and explore our released annotations [here](https://dollarstreetfactors.metademolab.com/?at=-24%2C40.67%2C2.5)!  
+- **Sept '23**: :tada: We're honored to receive a spotlight award at NeurIPS 2023 under the datasets track for our paper investigating mechanisms of geographical bias in vision models! See full paper [here](https://arxiv.org/abs/2304.05391), and explore our released annotations [here](https://dollarstreetfactors.metademolab.com/?at=-24%2C40.67%2C2.5)!  
 
 - **July '23**: I'm at ICML '23 with a poster at the [Data-Centric Machine learning Research (DMLR)](https://dmlr.ai/) workshop (full paper [here](https://arxiv.org/abs/2307.13136)). I'm also part of an amazing team organizing a breakout session on robustness and large-scale vision models at the [Women in Machine Learning](https://sites.google.com/wimlworkshop.org/wiml-unworkshop-2023/home?authuser=0) workshop ([slides](https://drive.google.com/file/d/19do6FdisYV5OFY26jH-nvbB9CihDAcBg/view?usp=sharing)).
 

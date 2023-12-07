@@ -26,9 +26,9 @@ Previously, I completed my undergradate at Duke University, where I worked with 
 
 ## Publications
 
-- **_Does Progress On Object Recognition Benchmarks Improve Real-World Generalization?_** \
+- **_Does Progress On Object Recognition Benchmarks Improve Generalization on Crowdsourced, Global Data?_** \
     **Megan Richards**, Polina Kirichenko, Diane Bouchacourt, Mark Ibrahim \
-    ICML Workshop on Data Centric Machine Learning, 2023\
+    Under Review, ICLR '24. Poster at the Data Centric Machine Learning Workship, ICML 2023 \
     [[arXiv](https://arxiv.org/abs/2307.13136)]
 
 - **_Pinpointing Why Object Recognition Performance Degrades Across Income Levels and Geographies_** \
@@ -56,6 +56,8 @@ I'm part of an amazing team organizing the NeurIPS 2023 workshop - see our NeurI
 I helped organize a breakout session on robustness and large-scale vision models at the [Women in Machine Learning](https://sites.google.com/wimlworkshop.org/wiml-unworkshop-2023/home?authuser=0) workshop ([slides](https://drive.google.com/file/d/19do6FdisYV5OFY26jH-nvbB9CihDAcBg/view?usp=sharing)). 
 
 ## Service 
-
+- **_Reviewer, ICLR Workshops 2024_** \
+  I was a reviewer for the Workshops at ICLR 2024. Excited to see so many great new avenues of research!
+  
 - **_Reviewer, DMLR Workshop at ICML 2023_** \
   I was a reviewer for the DMLR workshop at ICML 2023 this year. See more about the workshop [here](https://dmlr.ai/). 

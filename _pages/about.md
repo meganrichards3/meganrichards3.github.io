@@ -9,14 +9,14 @@ redirect_from:
 ---
 
 ## About Me
-I am an AI Resident at [Meta AI](https://ai.meta.com/research/) (FAIR labs) where I'm fortunate to be advised by [Mark Ibrahim](https://scholar.google.com/citations?hl=en&user=AqYyoCMAAAAJ&view_op=list_works&sortby=pubdate) and [Diane Bouchacourt](https://dianebouchacourt.github.io/). I study the **foundations of reliable machine learning**, with the goal of undertanding model behavior and leveraging these insights to improve reliability in real-world settings. I'm broadly interested in understanding how models learn, the ways they fail, and how we can build more reliable, fair, and robust systems. Most recently, I have studied geographical bias in vision models, including studying the [widening progress gap between imagenet-based benchmarks and global, crowdsourced data](https://arxiv.org/abs/2307.13136), and investigating the [mechanisms of geographical bias](https://arxiv.org/abs/2304.05391). 
+I am an AI Resident at [Meta AI](https://ai.meta.com/research/) (FAIR labs) where I'm fortunate to be advised by [Mark Ibrahim](https://scholar.google.com/citations?hl=en&user=AqYyoCMAAAAJ&view_op=list_works&sortby=pubdate) and [Diane Bouchacourt](https://dianebouchacourt.github.io/). I study the **foundations of reliable machine learning**, with the goal of undertanding model behavior and leveraging these insights to improve reliability in real-world settings. I'm broadly interested in understanding how models learn, the ways they fail, and how we can build more reliable, fair, and robust systems. Most recently, I have studied geographical failurese in vision models, including studying the [widening progress gap between imagenet-based benchmarks and global, crowdsourced data](https://arxiv.org/abs/2307.13136), and investigating the [mechanisms of geographical bias](https://arxiv.org/abs/2304.05391). 
 
-Previously, I completed my undergradate at Duke University, where I worked with [Mark Sendak](https://scholar.google.com/citations?user=U0kHK8wAAAAJ&hl=en&oi=ao) as part of the Duke Institute for Healthcare Innovation ([DIHI](https://dihi.org/projects/)). At DIHI, I worked on building risk prediction models for [severe pregnancy complications](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/62eb0bc60a2601399afdfecf/1659571143037/108+MEWS_Abstract.pdf), and helping implement a [data quality assurance framework](https://proceedings.mlr.press/v182/sendak22a.html) which improved model consistency in practice by faciliating more clinically informed data processing.  I also worked at the [Duke Center for Global Women's Health Technologies](https://www.dukegwht.org/) on a [self-screening device](https://spj.science.org/doi/full/10.34133/2022/9823184?adobe_mc=MCMID%3D14000684186094648760814905405683999528%7CMCORGID%3D242B6472541199F70A4C98A6%2540AdobeOrg%7CTS%3D1696809600) for cervical cancer designed for low-resource global settings.  
+Previously, I completed my undergradate at Duke University, where I worked with [Mark Sendak](https://scholar.google.com/citations?user=U0kHK8wAAAAJ&hl=en&oi=ao) as part of the Duke Institute for Healthcare Innovation ([DIHI](https://dihi.org/projects/)). At DIHI, I worked on building risk prediction models for [severe pregnancy complications](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/62eb0bc60a2601399afdfecf/1659571143037/108+MEWS_Abstract.pdf), which are now integrated and in silent trials. I also worked with DIHI to implement a [data quality assurance framework](https://proceedings.mlr.press/v182/sendak22a.html) which improved model consistency by faciliating more clinically informed data processing. While at Duke, I also worked at the [Duke Center for Global Women's Health Technologies](https://www.dukegwht.org/) on a [self-screening device](https://spj.science.org/doi/full/10.34133/2022/9823184?adobe_mc=MCMID%3D14000684186094648760814905405683999528%7CMCORGID%3D242B6472541199F70A4C98A6%2540AdobeOrg%7CTS%3D1696809600) for cervical cancer designed for low-resource global settings.  
 
 **I'm very excited to be applying to PhD programs this fall (2023/2024 cycle) - if you are looking for PhD students or would recommend people I should work with, I'd love to hear from you!**
 
 ## Recent Updates
-- **Sept '23**: :tada: We're honored to receive a spotlight award at NeurIPS 2023 under the datasets track for our paper investigating mechanisms of geographical bias in vision models! See full paper [here](https://arxiv.org/abs/2304.05391), and explore our released annotations [here](https://dollarstreetfactors.metademolab.com/?at=-24%2C40.67%2C2.5)!  
+- **Dec '23**: We're honored to receive a **spotlight award** at NeurIPS 2023 under the datasets track for our paper investigating mechanisms of geographical bias in vision models! See full paper [here](https://arxiv.org/abs/2304.05391), and explore our released annotations through our webpage [here](https://dollarstreetfactors.metademolab.com/?at=-24%2C40.67%2C2.5)!  
 
 - **July '23**: I'm at ICML '23 with a poster at the [Data-Centric Machine learning Research (DMLR)](https://dmlr.ai/) workshop (full paper [here](https://arxiv.org/abs/2307.13136)). I'm also part of an amazing team organizing a breakout session on robustness and large-scale vision models at the [Women in Machine Learning](https://sites.google.com/wimlworkshop.org/wiml-unworkshop-2023/home?authuser=0) workshop ([slides](https://drive.google.com/file/d/19do6FdisYV5OFY26jH-nvbB9CihDAcBg/view?usp=sharing)).
 
@@ -31,7 +31,7 @@ Previously, I completed my undergradate at Duke University, where I worked with 
     Under Review, ICLR '24. Poster at the Data Centric Machine Learning Workship, ICML 2023 \
     [[arXiv](https://arxiv.org/abs/2307.13136)]
 
-- **_Pinpointing Why Object Recognition Performance Degrades Across Income Levels and Geographies_** \
+- **_Exploring Why Object Recognition Performance Degrades Across Income Levels and Geographies_** \
     Laura Gustafson, **Megan Richards**, Melissa Hall, Caner Hazirbas, Diane Bouchacourt, Mark Ibrahim \
     [[arXiv](https://arxiv.org/abs/2304.05391)]. Spotlight, NeurIPS 2023 Datasets and Benchmarks. 
 
@@ -50,7 +50,7 @@ Previously, I completed my undergradate at Duke University, where I worked with 
 I'm really excited by efforts to make machine learning/science more inclusive, and am proud to part of the following efforts: 
 
 - **_Organizer, Queer In AI_** \
-I'm part of an amazing team organizing the NeurIPS 2023 workshop - see our NeurIPS website [here](https://www.queerinai.com/neurips-2023) and our org website [here](https://www.queerinai.com/).
+I'm part of an amazing team organizing the NeurIPS 2023 workshop - see our NeurIPS website [here](https://www.queerinai.com/neurips-2023) and our org website [here](https://www.queerinai.com/). Come see us on Monday, Dec 11th!
 
 - **_Discussion Lead, Women-In-Machine-Learning (WiML) at ICML 2023_** \
 I helped organize a breakout session on robustness and large-scale vision models at the [Women in Machine Learning](https://sites.google.com/wimlworkshop.org/wiml-unworkshop-2023/home?authuser=0) workshop ([slides](https://drive.google.com/file/d/19do6FdisYV5OFY26jH-nvbB9CihDAcBg/view?usp=sharing)). 
@@ -60,4 +60,4 @@ I helped organize a breakout session on robustness and large-scale vision models
   I was a reviewer for the Workshops at ICLR 2024. Excited to see so many great new avenues of research!
   
 - **_Reviewer, DMLR Workshop at ICML 2023_** \
-  I was a reviewer for the DMLR workshop at ICML 2023 this year. See more about the workshop [here](https://dmlr.ai/). 
+  I was a reviewer for the DMLR workshop at ICML 2023. See more about the workshop [here](https://dmlr.ai/). 

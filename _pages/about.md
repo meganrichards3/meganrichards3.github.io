@@ -16,7 +16,7 @@ My current research interests are largely motivated by my experiences deploying 
 **I'm very excited to be applying to PhD programs this fall (2023/2024 cycle) - if you are looking for PhD students or would recommend people I should work with, I'd love to hear from you!**
 
 ## Recent Updates
-- **Jan 24**: We're thrilled to have our work accepted at [ICLR 2024](https://iclr.cc/Conferences/2024/CallForPapers)! Our work demonstrates a widening progress gap between imagenet-based benchmarks and global, crowdsourced data, driven by significant overrepresentation of western images in internet-scraped datasets. Camera-ready coming soon!   
+- **Jan '24**: We're thrilled to have our work accepted at [ICLR 2024](https://iclr.cc/Conferences/2024/CallForPapers)! Our work demonstrates a widening progress gap between imagenet-based benchmarks and global, crowdsourced data, driven by significant overrepresentation of western images in internet-scraped datasets. Camera-ready coming soon!   
   
 - **Dec '23**: We're honored to receive a **spotlight award** at NeurIPS 2023 under the datasets track for our paper investigating mechanisms of geographical bias in vision models! See full paper [here](https://arxiv.org/abs/2304.05391), and explore our released annotations through our webpage [here](https://dollarstreetfactors.metademolab.com/?at=-24%2C40.67%2C2.5)!  
 

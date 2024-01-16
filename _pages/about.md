@@ -30,7 +30,7 @@ My current research interests are largely motivated by my experiences deploying 
 
 - **_Does Progress On Object Recognition Benchmarks Improve Generalization on Crowdsourced, Global Data?_** \
     **Megan Richards**, Polina Kirichenko, Diane Bouchacourt, Mark Ibrahim \
-    Under Review, ICLR '24. Poster at the Data Centric Machine Learning Workship, ICML 2023 \
+    ICLR '24 \
     [[ICLR OpenReview](https://openreview.net/forum?id=rhaQbS3K3R), [arXiv](https://arxiv.org/abs/2307.13136)]
 
 - **_Exploring Why Object Recognition Performance Degrades Across Income Levels and Geographies_** \

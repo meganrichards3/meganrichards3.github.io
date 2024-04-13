@@ -16,15 +16,14 @@ My current research interests are largely motivated by my experiences deploying 
 **I'm very excited to be applying to PhD programs this fall (2023/2024 cycle) - if you are looking for PhD students or would recommend people I should work with, I'd love to hear from you!**
 
 ## Recent Updates
+- **April '24**: I'm been awarded a [NSF Graduate Research Fellowship (GRFP)](https://www.nsfgrfp.org/) to support my upcoming PhD work! I'm very grateful for the support of my incredible research mentors in the application (Mark Sendak, Diane Bouchacourt, and Mark Ibrahim). I also wrote a [twitter thread](https://x.com/megan_richards_/status/1778117570509328845) on the resources that helped me through the process.  
+  
 - **Jan '24**: We're thrilled to have our work accepted at [ICLR 2024](https://iclr.cc/Conferences/2024/CallForPapers)! Our work demonstrates a widening progress gap between imagenet-based benchmarks and global, crowdsourced data, driven by significant overrepresentation of western images in internet-scraped datasets. Camera-ready coming soon!   
   
 - **Dec '23**: We're honored to receive a **spotlight award** at NeurIPS 2023 under the datasets track for our paper investigating mechanisms of geographical bias in vision models! See full paper [here](https://arxiv.org/abs/2304.05391), and explore our released annotations through our webpage [here](https://dollarstreetfactors.metademolab.com/?at=-24%2C40.67%2C2.5)!  
 
 - **July '23**: I'm at ICML '23 with a poster at the [Data-Centric Machine learning Research (DMLR)](https://dmlr.ai/) workshop (full paper [here](https://arxiv.org/abs/2307.13136)). I'm also part of an amazing team organizing a breakout session on robustness and large-scale vision models at the [Women in Machine Learning](https://sites.google.com/wimlworkshop.org/wiml-unworkshop-2023/home?authuser=0) workshop ([slides](https://drive.google.com/file/d/19do6FdisYV5OFY26jH-nvbB9CihDAcBg/view?usp=sharing)).
 
-- **June '23**: I'm excited to be back at Machine Learning for Healthcare ([MLHC](https://www.mlforhc.org/)) with a poster describing our experiences deploying risk prediction models for maternal health at Duke.  
-
-- **July '22**: Our [paper](https://proceedings.mlr.press/v182/sendak22a.html) on data quality in healthcare applications has been published at MLHC '22! We introduce a clinically-guided data quality assurance framework, validating the framework on 5 distinct clinical projects in two countries.  
 
 ## Publications
 

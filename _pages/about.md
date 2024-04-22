@@ -16,9 +16,9 @@ My current research interests are largely motivated by my experiences deploying 
 **I'm very excited to be applying to PhD programs this fall (2023/2024 cycle) - if you are looking for PhD students or would recommend people I should work with, I'd love to hear from you!**
 
 ## Recent Updates
-- **April '24**: I'm been awarded a [NSF Graduate Research Fellowship (GRFP)](https://www.nsfgrfp.org/) to support my upcoming PhD work! I'm very grateful for the support of my incredible research mentors in the application (Mark Sendak, Diane Bouchacourt, and Mark Ibrahim). I also wrote a [twitter thread](https://x.com/megan_richards_/status/1778117570509328845) on the resources that helped me through the process.  
-  
-- **Jan '24**: We're thrilled to have our work accepted at [ICLR 2024](https://iclr.cc/Conferences/2024/CallForPapers)! Our work demonstrates a widening progress gap between imagenet-based benchmarks and global, crowdsourced data, driven by significant overrepresentation of western images in internet-scraped datasets. Camera-ready coming soon!   
+- **April '24**: Incredibly excited to announce that this fall (2024), I will start a PhD at [NYU Computer Science](https://cs.nyu.edu/home/index.html), working with [Kyunghyun Cho](https://kyunghyuncho.me/). My work will be supported by NYU's [GSAS Dean's Doctoral Fellowship](https://gsas.nyu.edu/admissions/financial-aid/diversity-and-access-funding-programs.html), as well as the [NSF Graduate Research Fellowship (GRFP)](https://www.nsfgrfp.org/). 
+
+- **Jan '24**: We're thrilled to have our work accepted at [ICLR 2024](https://iclr.cc/Conferences/2024/CallForPapers)! Our work demonstrates a widening progress gap between imagenet-based benchmarks and global, crowdsourced data, driven by significant overrepresentation of western images in internet-scraped datasets.    
   
 - **Dec '23**: We're honored to receive a **spotlight award** at NeurIPS 2023 under the datasets track for our paper investigating mechanisms of geographical bias in vision models! See full paper [here](https://arxiv.org/abs/2304.05391), and explore our released annotations through our webpage [here](https://dollarstreetfactors.metademolab.com/?at=-24%2C40.67%2C2.5)!  
 

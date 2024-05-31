@@ -9,20 +9,22 @@ redirect_from:
 ---
 
 ## About Me
-I am currently an AI Resident at [Meta AI](https://ai.meta.com/research/) (FAIR labs) where I'm fortunate to be advised by [Mark Ibrahim](https://scholar.google.com/citations?hl=en&user=AqYyoCMAAAAJ&view_op=list_works&sortby=pubdate) and [Diane Bouchacourt](https://dianebouchacourt.github.io/). In the fall,  I will start a PhD at [NYU Computer Science](https://cs.nyu.edu/home/index.html), where I'll work with [Kyunghyun Cho](https://kyunghyuncho.me/). My PhD will be supported by NYU's [GSAS Dean's Doctoral Fellowship](https://gsas.nyu.edu/admissions/financial-aid/diversity-and-access-funding-programs.html), and the [NSF Graduate Research Fellowship (GRFP)](https://www.nsfgrfp.org/). 
+I am currently an AI Resident at [Meta AI](https://ai.meta.com/research/) (FAIR labs) where I'm fortunate to be advised by [Mark Ibrahim](https://scholar.google.com/citations?hl=en&user=AqYyoCMAAAAJ&view_op=list_works&sortby=pubdate) and [Diane Bouchacourt](https://dianebouchacourt.github.io/). In the fall,  I will start a PhD at NYU Computer Science, where I'll work with [Kyunghyun Cho](https://kyunghyuncho.me/). My PhD will be supported by NYU's [GSAS Dean's Doctoral Fellowship](https://gsas.nyu.edu/admissions/financial-aid/diversity-and-access-funding-programs.html), and the [NSF Graduate Research Fellowship (GRFP)](https://www.nsfgrfp.org/). 
 
-I study the **foundations of reliable machine learning**, with the goal of contributing to better science for making models more predictable, consistent, representative, and fair. Most recently, I have studied geographical failures in vision models, including studying the [widening progress gap between imagenet-based benchmarks and global, crowdsourced data](https://arxiv.org/abs/2307.13136) (ICLR 2024), and investigating the [mechanisms of geographical bias](https://arxiv.org/abs/2304.05391) (Spotlight, NeurIPS 2023). 
+I study the **foundations of reliable machine learning**, with the goal of contributing to better science for making models more consistent, representative, fair, and useful. Most recently, I have studied geographical failures in vision models, including studying the [widening progress gap between imagenet-based benchmarks and global, crowdsourced data](https://arxiv.org/abs/2307.13136) (ICLR 2024), and investigating the [mechanisms of geographical bias](https://arxiv.org/abs/2304.05391) (Spotlight, NeurIPS 2023). 
 
 My current research interests in machine learning are motivated by my experiences deploying ML-based tools in high-stakes settings. I completed my undergradate at Duke University, where I worked with [Mark Sendak](https://scholar.google.com/citations?user=U0kHK8wAAAAJ&hl=en&oi=ao) as part of the Duke Institute for Healthcare Innovation ([DIHI](https://dihi.org/projects/)). At DIHI, I worked on building risk prediction models for [severe pregnancy complications](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/62eb0bc60a2601399afdfecf/1659571143037/108+MEWS_Abstract.pdf), which are now integrated and in silent trials. I also worked with DIHI to implement a [data quality assurance framework](https://proceedings.mlr.press/v182/sendak22a.html) which improved model performance by better integrating clinical feedback into dataset design. While at Duke, I also worked at the [Duke Center for Global Women's Health Technologies](https://www.dukegwht.org/) on a [self-screening device](https://spj.science.org/doi/full/10.34133/2022/9823184?adobe_mc=MCMID%3D14000684186094648760814905405683999528%7CMCORGID%3D242B6472541199F70A4C98A6%2540AdobeOrg%7CTS%3D1696809600) for cervical cancer designed for low-resource global settings, which earned a Best Research award at NIH's IEEE HIPOCT Conference in 2019. 
 
 ## Recent Updates
-- **April '24**: Incredibly excited to announce that this fall (2024), I will start a PhD at [NYU Computer Science](https://cs.nyu.edu/home/index.html), working with [Kyunghyun Cho](https://kyunghyuncho.me/). My work will be supported by NYU's [GSAS Dean's Doctoral Fellowship](https://gsas.nyu.edu/admissions/financial-aid/diversity-and-access-funding-programs.html), as well as the [NSF Graduate Research Fellowship (GRFP)](https://www.nsfgrfp.org/). 
+- **May '24**: :page_with_curl: Check out our [Introduction to Vision-Language Modeling](https://arxiv.org/abs/2405.17247), created through a broad collaboration of researchers (> 40 people across 10 institutions) to help democratize knowledge about VLMs! 
 
-- **Jan '24**: We're thrilled to have our work accepted at [ICLR 2024](https://iclr.cc/Conferences/2024/CallForPapers)! Our work demonstrates a widening progress gap between imagenet-based benchmarks and global, crowdsourced data, driven by significant overrepresentation of western images in internet-scraped datasets.    
+- **April '24**: :mortar_board: So excited to announce that this fall (2024), I will start a PhD at [NYU Computer Science](https://cs.nyu.edu/home/index.html), working with [Kyunghyun Cho](https://kyunghyuncho.me/). My work will be supported by NYU's [GSAS Dean's Doctoral Fellowship](https://gsas.nyu.edu/admissions/financial-aid/diversity-and-access-funding-programs.html), as well as the [NSF Graduate Research Fellowship (GRFP)](https://www.nsfgrfp.org/). 
+
+- **Jan '24**: :page_with_curl: We're thrilled to have our work accepted at [ICLR 2024](https://iclr.cc/Conferences/2024/CallForPapers)! Our work demonstrates a widening progress gap between imagenet-based benchmarks and global, crowdsourced data, driven by significant overrepresentation of western images in internet-scraped datasets.    
   
-- **Dec '23**: We're honored to receive a **spotlight award** at NeurIPS 2023 under the datasets track for our paper investigating mechanisms of geographical bias in vision models! See full paper [here](https://arxiv.org/abs/2304.05391), and explore our released annotations through our webpage [here](https://dollarstreetfactors.metademolab.com/?at=-24%2C40.67%2C2.5)!  
+- **Dec '23**: :confetti_ball: We're honored to receive a **spotlight award** at NeurIPS 2023 under the datasets track for our paper investigating mechanisms of geographical bias in vision models! See full paper [here](https://arxiv.org/abs/2304.05391), our annotations [here](https://dollarstreetfactors.metademolab.com/?at=-24%2C40.67%2C2.5)!  
 
-- **July '23**: I'm at ICML '23 with a poster at the [Data-Centric Machine learning Research (DMLR)](https://dmlr.ai/) workshop (full paper [here](https://arxiv.org/abs/2307.13136)). I'm also part of an amazing team organizing a breakout session on robustness and large-scale vision models at the [Women in Machine Learning](https://sites.google.com/wimlworkshop.org/wiml-unworkshop-2023/home?authuser=0) workshop ([slides](https://drive.google.com/file/d/19do6FdisYV5OFY26jH-nvbB9CihDAcBg/view?usp=sharing)).
+- **July '23**: :page_with_curl: I'm at ICML '23 with a poster at the [Data-Centric Machine learning Research (DMLR)](https://dmlr.ai/) workshop and helping organize a breakout session on robustness and large-scale vision models at the [Women in Machine Learning](https://sites.google.com/wimlworkshop.org/wiml-unworkshop-2023/home?authuser=0) workshop ([slides](https://drive.google.com/file/d/19do6FdisYV5OFY26jH-nvbB9CihDAcBg/view?usp=sharing)).
 
 
 ## Publications
@@ -30,7 +32,7 @@ My current research interests in machine learning are motivated by my experience
 - **_Does Progress On Object Recognition Benchmarks Improve Generalization on Crowdsourced, Global Data?_** \
     **Megan Richards**, Polina Kirichenko, Diane Bouchacourt, Mark Ibrahim \
     ICLR '24 \
-    [[ICLR OpenReview](https://openreview.net/forum?id=rhaQbS3K3R), [arXiv](https://arxiv.org/abs/2307.13136)]
+    [[ICLR '24](https://openreview.net/forum?id=rhaQbS3K3R)]
 
 - **_Exploring Why Object Recognition Performance Degrades Across Income Levels and Geographies_** \
     Laura Gustafson, **Megan Richards**, Melissa Hall, Caner Hazirbas, Diane Bouchacourt, Mark Ibrahim \
@@ -67,11 +69,11 @@ My current research interests in machine learning are motivated by my experience
 ## Organizing 
 I'm really excited by efforts to make machine learning/science more inclusive, and am proud to part of the following efforts: 
 
-- **_Organizer, Queer In AI_** \
-I'm part of an amazing team organizing the NeurIPS 2023 workshop - see our NeurIPS website [here](https://www.queerinai.com/neurips-2023) and our org website [here](https://www.queerinai.com/). Come see us on Monday, Dec 11th!
+- **_Organizer, Queer In AI_ :rainbow:** \
+I helped organize the QinAI NeurIPS 2023 workshop - see our NeurIPS website [here](https://www.queerinai.com/neurips-2023) and our org website [here](https://www.queerinai.com/). 
 
 - **_Discussion Lead, Women-In-Machine-Learning (WiML) at ICML 2023_** \
-I helped organize a breakout session on robustness and large-scale vision models at the [Women in Machine Learning](https://sites.google.com/wimlworkshop.org/wiml-unworkshop-2023/home?authuser=0) workshop ([slides](https://drive.google.com/file/d/19do6FdisYV5OFY26jH-nvbB9CihDAcBg/view?usp=sharing)). 
+I helped organize a breakout session on robustness and large-scale vision models at the [Women in Machine Learning](https://sites.google.com/wimlworkshop.org/wiml-unworkshop-2023/home?authuser=0) workshop at ICML 2023 ([slides](https://drive.google.com/file/d/19do6FdisYV5OFY26jH-nvbB9CihDAcBg/view?usp=sharing)). 
 
 ## Service 
 - **_Reviewer, ICLR Workshops 2024_** \

@@ -16,19 +16,22 @@ I study the **foundations of reliable machine learning**, with the goal of contr
 My current research interests in machine learning are motivated by my experiences deploying ML-based tools in high-stakes settings. I completed my undergradate at Duke University, where I worked with [Mark Sendak](https://scholar.google.com/citations?user=U0kHK8wAAAAJ&hl=en&oi=ao) as part of the Duke Institute for Healthcare Innovation ([DIHI](https://dihi.org/projects/)). At DIHI, I worked on building risk prediction models for [severe pregnancy complications](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/62eb0bc60a2601399afdfecf/1659571143037/108+MEWS_Abstract.pdf), which are now integrated and in silent trials. I also worked with DIHI to implement a [data quality assurance framework](https://proceedings.mlr.press/v182/sendak22a.html) which improved model performance by better integrating clinical feedback into dataset design. While at Duke, I also worked at the [Duke Center for Global Women's Health Technologies](https://www.dukegwht.org/) on a [self-screening device](https://spj.science.org/doi/full/10.34133/2022/9823184?adobe_mc=MCMID%3D14000684186094648760814905405683999528%7CMCORGID%3D242B6472541199F70A4C98A6%2540AdobeOrg%7CTS%3D1696809600) for cervical cancer designed for low-resource global settings, which earned a Best Research award at NIH's IEEE HIPOCT Conference in 2019. 
 
 ## Recent Updates
-- **May '24**: :page_with_curl: Check out our [Introduction to Vision-Language Modeling](https://arxiv.org/abs/2405.17247), created through a broad collaboration of researchers (> 40 people across 10 institutions) to help democratize knowledge about VLMs! 
+- **May '24**: 📝 Check out our [Introduction to Vision-Language Modeling](https://arxiv.org/abs/2405.17247), created through a broad collaboration of researchers (> 40 people across 10 institutions) to help democratize knowledge about VLMs! 
 
-- **April '24**: :mortar_board: So excited to announce that this fall (2024), I will start a PhD at [NYU Computer Science](https://cs.nyu.edu/home/index.html), working with [Kyunghyun Cho](https://kyunghyuncho.me/). My work will be supported by NYU's [GSAS Dean's Doctoral Fellowship](https://gsas.nyu.edu/admissions/financial-aid/diversity-and-access-funding-programs.html), as well as the [NSF Graduate Research Fellowship (GRFP)](https://www.nsfgrfp.org/). 
+- **April '24**: 🎓 So excited to announce that this fall (2024), I will start a PhD at [NYU Computer Science](https://cs.nyu.edu/home/index.html), working with [Kyunghyun Cho](https://kyunghyuncho.me/). My work will be supported by NYU's [GSAS Dean's Doctoral Fellowship](https://gsas.nyu.edu/admissions/financial-aid/diversity-and-access-funding-programs.html), as well as the [NSF Graduate Research Fellowship (GRFP)](https://www.nsfgrfp.org/). 
 
-- **Jan '24**: :page_with_curl: We're thrilled to have our work accepted at [ICLR 2024](https://iclr.cc/Conferences/2024/CallForPapers)! Our work demonstrates a widening progress gap between imagenet-based benchmarks and global, crowdsourced data, driven by significant overrepresentation of western images in internet-scraped datasets.    
+- **Jan '24**: 📝 We're thrilled to have our work accepted at [ICLR 2024](https://iclr.cc/Conferences/2024/CallForPapers)! Our work demonstrates a widening progress gap between imagenet-based benchmarks and global, crowdsourced data, driven by significant overrepresentation of western images in internet-scraped datasets.    
   
-- **Dec '23**: :confetti_ball: We're honored to receive a **spotlight award** at NeurIPS 2023 under the datasets track for our paper investigating mechanisms of geographical bias in vision models! See full paper [here](https://arxiv.org/abs/2304.05391), our annotations [here](https://dollarstreetfactors.metademolab.com/?at=-24%2C40.67%2C2.5)!  
+- **Dec '23**: 🎊 We're honored to receive a **spotlight award** at NeurIPS 2023 under the datasets track for our paper investigating mechanisms of geographical bias in vision models! See full paper [here](https://arxiv.org/abs/2304.05391), our annotations [here](https://dollarstreetfactors.metademolab.com/?at=-24%2C40.67%2C2.5)!  
 
-- **July '23**: :page_with_curl: I'm at ICML '23 with a poster at the [Data-Centric Machine learning Research (DMLR)](https://dmlr.ai/) workshop and helping organize a breakout session on robustness and large-scale vision models at the [Women in Machine Learning](https://sites.google.com/wimlworkshop.org/wiml-unworkshop-2023/home?authuser=0) workshop ([slides](https://drive.google.com/file/d/19do6FdisYV5OFY26jH-nvbB9CihDAcBg/view?usp=sharing)).
+- **July '23**: 📝 I'm at ICML '23 with a poster at the [Data-Centric Machine learning Research (DMLR)](https://dmlr.ai/) workshop and helping organize a breakout session on robustness and large-scale vision models at the [Women in Machine Learning](https://sites.google.com/wimlworkshop.org/wiml-unworkshop-2023/home?authuser=0) workshop ([slides](https://drive.google.com/file/d/19do6FdisYV5OFY26jH-nvbB9CihDAcBg/view?usp=sharing)).
 
 
 ## Publications
-
+- **_An Introduction to Vision-Language Modeling_** \
+    Florian Bordes, Richard Yuanzhe Pang, Anurag Ajay, ..., **Megan Richards**, ..., Kate Saenko, Asli Celikyilmaz, Vikas Chandra \
+    [[ArXiv](https://arxiv.org/abs/2405.17247)]
+  
 - **_Does Progress On Object Recognition Benchmarks Improve Generalization on Crowdsourced, Global Data?_** \
     **Megan Richards**, Polina Kirichenko, Diane Bouchacourt, Mark Ibrahim \
     ICLR '24 \

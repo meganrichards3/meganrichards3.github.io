@@ -72,10 +72,13 @@ My current research interests in machine learning are motivated by my experience
 ## Organizing 
 I'm really excited by efforts to make machine learning/science more inclusive, and am proud to part of the following efforts: 
 
-- **_Organizer, Queer In AI_ :rainbow:** \
-I helped organize the QinAI NeurIPS 2023 workshop - see our NeurIPS website [here](https://www.queerinai.com/neurips-2023) and our org website [here](https://www.queerinai.com/). 
+- **_Organizer, Queer In AI_** 🌈 \
+I helped organize the QinAI NeurIPS 2023 workshop - see our NeurIPS website [here](https://www.queerinai.com/neurips-2023) and our org website [here](https://www.queerinai.com/).
 
-- **_Discussion Lead, Women-In-Machine-Learning (WiML) at ICML 2023_** \
+
+
+- **_Discussion Lead, Women-In-Machine-Learning (WiML) at ICML 2023_** <img src="https://github.com/meganrichards3/meganrichards3.github.io/assets/31023715/dcaa9b14-911f-4c5b-a11a-c786256e35b1" width="25" height="12.5">
+ \
 I helped organize a breakout session on robustness and large-scale vision models at the [Women in Machine Learning](https://sites.google.com/wimlworkshop.org/wiml-unworkshop-2023/home?authuser=0) workshop at ICML 2023 ([slides](https://drive.google.com/file/d/19do6FdisYV5OFY26jH-nvbB9CihDAcBg/view?usp=sharing)). 
 
 ## Service 

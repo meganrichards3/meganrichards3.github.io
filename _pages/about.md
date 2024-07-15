@@ -30,7 +30,7 @@ My current research interests in machine learning are motivated by my experience
 ## Publications
 - **_Decomposed Evaluations of Geographic Disparities in Text-To-Image Models_** \
    Abhishek Sureddy*, Dishant Padalia*, Nandhinee Periyakaruppa*, Oindrila Saha, Adina Williams, Adriana Romero-Soriano, \
-  **Megan Richards****, Polina Kirichenko**, Melissa Hall** \
+  **Megan Richards** **, Polina Kirichenko **, Melissa Hall ** \
   _*joint first author **joint senior author_ \
   Outstanding Paper, Trustworthy Multi-modal Foundation Models and AI Agents (TiFA) Workshop, ICML 2024. \
   Next Generation of AI Safety Workshop, ICML 2024. \

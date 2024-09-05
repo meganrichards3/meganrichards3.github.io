@@ -20,7 +20,7 @@ My current research interests in machine learning reliability are motivated by m
 
 - **May '24**: 📝 Check out our [Introduction to Vision-Language Modeling](https://arxiv.org/abs/2405.17247), created through a broad collaboration of researchers (> 40 people across 10 institutions) to help democratize knowledge about VLMs! 
 
-- **April '24**: 🎓 So excited to announce that this fall (2024), I will start a PhD at [NYU Computer Science](https://cs.nyu.edu/home/index.html), working with [Kyunghyun Cho](https://kyunghyuncho.me/). My work will be supported by NYU's [GSAS Dean's Doctoral Fellowship](https://gsas.nyu.edu/admissions/financial-aid/diversity-and-access-funding-programs.html), as well as the [NSF Graduate Research Fellowship (GRFP)](https://www.nsfgrfp.org/). 
+- **April '24**: 🎓 This fall, I will start a PhD at [NYU Computer Science](https://cs.nyu.edu/home/index.html), working with [Kyunghyun Cho](https://kyunghyuncho.me/). My work will be supported by NYU's [GSAS Dean's Doctoral Fellowship](https://gsas.nyu.edu/admissions/financial-aid/diversity-and-access-funding-programs.html), as well as the [NSF Graduate Research Fellowship (GRFP)](https://www.nsfgrfp.org/). 
 
 - **Jan '24**: 📝 We're thrilled to have our work accepted at [ICLR 2024](https://iclr.cc/Conferences/2024/CallForPapers)! Our work demonstrates a widening progress gap between imagenet-based benchmarks and global, crowdsourced data, driven by significant overrepresentation of western images in internet-scraped datasets.    
   

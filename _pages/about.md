@@ -31,15 +31,15 @@ My current research interests in machine learning reliability are motivated by m
 
 ## Publications
 - **_On the Role of Speech Data in Reducing Toxicity Detection Bias_** \
-   Samuel J. Bell*, Mariano Coria Megliol*, **Megan Richards***, Eduardo Sánchez*, \
-  Christophe Ropers, Skyler Wang, Adina Williams, Levent Sagun, Marta R. Costa-jussà* \
-  _*core contributor_ \
+   Samuel J. Bell<sup>\*</sup>, Mariano Coria Megliol <sup>\*</sup>, **Megan Richards**<sup>\*</sup>, Eduardo Sánchez<sup>\*</sup>, \
+  Christophe Ropers, Skyler Wang, Adina Williams, Levent Sagun, Marta R. Costa-jussà<sup>\*</sup> \
+  _<sup>\*</sup>core contributor_ \
     [[ArXiv](https://arxiv.org/abs/2411.08135)]
   
 - **_Decomposed Evaluations of Geographic Disparities in Text-To-Image Models_** \
-   Abhishek Sureddy*, Dishant Padalia*, Nandhinee Periyakaruppa*, Oindrila Saha, Adina Williams, Adriana Romero-Soriano, \
+   Abhishek Sureddy<sup>\*</sup>, Dishant Padalia<sup>\*</sup>, Nandhinee Periyakaruppa<sup>\*</sup>, Oindrila Saha, Adina Williams, Adriana Romero-Soriano, \
   **Megan Richards** **, Polina Kirichenko ** , Melissa Hall ** \
-   *_joint first author_   _**joint senior author_ \
+   <sup>\*</sup>_joint first author_   _**joint senior author_ \
   Outstanding Paper, Trustworthy Multi-modal Foundation Models and AI Agents (TiFA) Workshop, ICML 2024. \
   Next Generation of AI Safety Workshop, ICML 2024. \
     [[ArXiv](https://arxiv.org/abs/2406.11988)]

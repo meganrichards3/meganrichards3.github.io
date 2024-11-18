@@ -16,6 +16,8 @@ I study the **foundations of reliable machine learning**, with the goal of makin
 My current research interests in machine learning reliability are motivated by my experiences building models for high-stakes medical settings. I completed my undergradate at Duke University, where I worked with [Mark Sendak](https://scholar.google.com/citations?user=U0kHK8wAAAAJ&hl=en&oi=ao) as part of the Duke Institute for Healthcare Innovation ([DIHI](https://dihi.org/projects/)). At DIHI, I worked on building risk prediction models for [severe pregnancy complications](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/62eb0bc60a2601399afdfecf/1659571143037/108+MEWS_Abstract.pdf), which are now integrated and in silent trials. I also worked with DIHI to implement a [data quality assurance framework](https://proceedings.mlr.press/v182/sendak22a.html) which improved model performance by better integrating clinical feedback into dataset design. While at Duke, I also worked at the [Duke Center for Global Women's Health Technologies](https://www.dukegwht.org/) on a [self-screening device](https://spj.science.org/doi/full/10.34133/2022/9823184?adobe_mc=MCMID%3D14000684186094648760814905405683999528%7CMCORGID%3D242B6472541199F70A4C98A6%2540AdobeOrg%7CTS%3D1696809600) for cervical cancer designed for low-resource global settings, which earned a Best Research award at NIH's IEEE HIPOCT Conference in 2019. 
 
 ## Recent Updates
+- **Nov '24**: 📝 Check out our new preprint [On the Role of Speech Data in Reducing Toxicity Detection Bias](https://arxiv.org/abs/2411.08135), led by Samuel Bell! We generate and release a new set of multilingual toxicity annotations for MuTox, and find that when models have access to the audio itself, rather than a transcript, they are more accurate and less biased in detecting toxicity (w.r.t group mentions).  
+  
 - **July '24**:🎊 We're honored to receive an **outstanding paper award** at the ICML TiFA workshop for our work measuring geographic disparities in image generations! It was such a pleasure to help supervise this project, led by Abhishek Sureddy, Dishant Padelia, and Nandhinee Periyakaruppa. 
 
 - **May '24**: 📝 Check out our [Introduction to Vision-Language Modeling](https://arxiv.org/abs/2405.17247), created through a broad collaboration of researchers (> 40 people across 10 institutions) to help democratize knowledge about VLMs! 
@@ -28,6 +30,12 @@ My current research interests in machine learning reliability are motivated by m
 
 
 ## Publications
+- **_On the Role of Speech Data in Reducing Toxicity Detection Bias_** \
+   Samuel J. Bell*, Mariano Coria Megliol*, **Megan Richards***, Eduardo Sánchez*, \
+  Christophe Ropers, Skyler Wang, Adina Williams, Levent Sagun, Marta R. Costa-jussà* \
+  _*core contributor_ \
+    [[ArXiv](https://arxiv.org/abs/2411.08135)]
+  
 - **_Decomposed Evaluations of Geographic Disparities in Text-To-Image Models_** \
    Abhishek Sureddy*, Dishant Padalia*, Nandhinee Periyakaruppa*, Oindrila Saha, Adina Williams, Adriana Romero-Soriano, \
   **Megan Richards** **, Polina Kirichenko ** , Melissa Hall ** \
@@ -47,7 +55,7 @@ My current research interests in machine learning reliability are motivated by m
 
 - **_Exploring Why Object Recognition Performance Degrades Across Income Levels and Geographies_** \
     Laura Gustafson, **Megan Richards**, Melissa Hall, Caner Hazirbas, Diane Bouchacourt, Mark Ibrahim \
-    [[arXiv](https://arxiv.org/abs/2304.05391)]. Spotlight, NeurIPS 2023 Datasets and Benchmarks. 
+    [[(Spotlight) NeurIPS 2023 Datasets and Benchmarks](https://arxiv.org/abs/2304.05391)]. 
 
 - **_Development and Validation of ML-DQA – a Machine Learning Data Quality Assurance Framework for Healthcare_** \
     Mark Sendak, Gaurav Sirdeshmukh, Timothy Ochoa, Hayley Premo, Linda Tang, Kira Niederhoffer, Sarah Reed, Kaivalya Deshpande, Emily Sterrett, Melissa Bauer, Laurie Snyder, Afreen Shariff, David Whellan, Jeffrey Riggio, David Gaieski, Kristin Corey, **Megan Richards**, Michael Gao, Marshall Nichols, Bradley Heintze, William Knechtle, William Ratliff, Suresh Balu \

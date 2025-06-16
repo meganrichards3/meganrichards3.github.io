@@ -16,6 +16,8 @@ I study the **foundations of reliable machine learning**, with the goal of makin
 My current research interests in machine learning reliability are motivated by my experiences building models for high-stakes medical settings. I completed my undergradate at Duke University, where I worked with [Mark Sendak](https://scholar.google.com/citations?user=U0kHK8wAAAAJ&hl=en&oi=ao) as part of the Duke Institute for Healthcare Innovation ([DIHI](https://dihi.org/projects/)). At DIHI, I worked on building risk prediction models for [severe pregnancy complications](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/62eb0bc60a2601399afdfecf/1659571143037/108+MEWS_Abstract.pdf), which are now integrated and in silent trials. I also worked with DIHI to implement a [data quality assurance framework](https://proceedings.mlr.press/v182/sendak22a.html) which improved model performance by better integrating clinical feedback into dataset design. While at Duke, I also worked at the [Duke Center for Global Women's Health Technologies](https://www.dukegwht.org/) on a [self-screening device](https://spj.science.org/doi/full/10.34133/2022/9823184?adobe_mc=MCMID%3D14000684186094648760814905405683999528%7CMCORGID%3D242B6472541199F70A4C98A6%2540AdobeOrg%7CTS%3D1696809600) for cervical cancer designed for low-resource global settings, which earned a Best Research award at NIH's IEEE HIPOCT Conference in 2019. 
 
 ## Recent Updates
+- **June '25**: Delighted to be speaking at CVPR's [DemoDiv](https://sites.google.com/view/cvpr-2025-demodiv/) workshop about some of our work studying geographic underrepresentation in computer vision. I made my presentation publicly available [here](https://drive.google.com/file/d/13f-iCRfuA1etKQCdv1koyP9pefyuuGtf/view?usp=sharing)!  
+  
 - **Nov '24**: 📝 Check out our new preprint [On the Role of Speech Data in Reducing Toxicity Detection Bias](https://arxiv.org/abs/2411.08135), led by Samuel Bell! We generate and release a new set of multilingual toxicity annotations for MuTox, and find that when models have access to the audio itself, rather than a transcript, they are more accurate and less biased in detecting toxicity (w.r.t group mentions).  
   
 - **July '24**:🎊 We're honored to receive an **outstanding paper award** at the ICML TiFA workshop for our work measuring geographic disparities in image generations! It was such a pleasure to help supervise this project, led by Abhishek Sureddy, Dishant Padelia, and Nandhinee Periyakaruppa. 
@@ -84,6 +86,12 @@ My current research interests in machine learning reliability are motivated by m
 - **_Development of a Speculum-Free Liquid Applicator for At-Home Cervical Cancer Screening_** \
     Erica Skerrett, Mercy N Asiedu, **Megan Richards**, John Wilson Schmitt, Nirmala Ramanujam \
     **Best Poster**, NIH IEEE HIPOCT Conference, 2019 
+
+## Talks
+
+- **_CVPR 2025, DemoDiv Workshop_** \
+    Geographic Underrepresentation in Computer Vision \
+    [Slides](https://drive.google.com/file/d/13f-iCRfuA1etKQCdv1koyP9pefyuuGtf/view?usp=sharing)  
 
 ## Organizing 
 I'm really excited by efforts to make machine learning/science more inclusive, and am proud to part of the following efforts: 
